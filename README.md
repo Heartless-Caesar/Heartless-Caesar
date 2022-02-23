@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-# General overview
 
-Hello, I'm an aspiring Fullstack Developer. I mainly focus on MERN stack but more tecnologies will eventually come around.
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heartless-Caesar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  &nbsp; &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Heartless-Caesar&theme=dark&background=000000)](https://git.io/streak-stats) 
@@ -36,6 +34,10 @@ Hello, I'm an aspiring Fullstack Developer. I mainly focus on MERN stack but mor
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
 -->
+# General overview
+
+Hello, I'm an aspiring Fullstack Developer. I mainly focus on MERN stack but more tecnologies will eventually come around.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heartless-caesar&label=Profile%20views&color=0e75b6&style=flat" alt="heartless-caesar" /> </p>
 
 <p align="left">
