@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 # General overview
 
+Hello, I'm an aspiring Fullstack Developer. I mainly focus on MERN stack but more tecnologies will eventually come around.
+
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Heartless-Caesar&theme=dark&background=000000)](https://git.io/streak-stats)
 
-Hello, I'm an aspiring Fullstack Developer. I mainly focus on MERN stack but more tecnologies will eventually come around.
 
 ## 🛠️ Programming lanuages and Tools:
 
