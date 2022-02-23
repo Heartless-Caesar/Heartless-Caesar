@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 
 Hello, I'm an aspiring Fullstack Developer. I mainly focus on MERN stack but more tecnologies will eventually come around.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heartless-caesar&label=Profile%20views&color=0e75b6&style=flat" alt="heartless-caesar" /> </p>
-
 <p align="left">
 </p>
 
