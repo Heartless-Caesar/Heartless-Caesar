@@ -48,6 +48,7 @@ Hello, I'm an aspiring Fullstack Developer. I mainly focus on MERN stack but mor
 &nbsp; 
 <p align="left">
 </p> 
-      &nbsp <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heartless-caesar&show_icons=true&locale=en" alt="heartless-caesar" /></p>
+ <p align="left">
+</p>  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heartless-caesar&show_icons=true&locale=en" alt="heartless-caesar" /></p>
 &nbsp 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heartless-caesar&" alt="heartless-caesar" /></p>
