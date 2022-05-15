@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 
 Hello, I'm an aspiring Fullstack Developer. I mainly focus on MERN stack but more tecnologies will eventually come around.
 
-
-## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heartless-Caesar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  &nbsp; 
-
-
 ## 🛠️ Programming lanuages and Tools:
 
 <div>
