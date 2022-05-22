@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 # General overview
 
-Hello, I'm an aspiring Fullstack Developer. I mainly focus on MERN stack but more tecnologies will eventually come around.
+Hello, I'm an aspiring Fullstack Developer. I mainly focus on MERN stack but I have knowledge on other tecnologies.
+If you need any information you can email me at joaovictorcsatu@gmail.com.
 
 ## 🛠️ Programming lanuages and Tools:
 
