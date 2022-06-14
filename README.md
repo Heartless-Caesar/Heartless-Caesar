@@ -14,8 +14,8 @@
 <br/>
 
 <p align="">
- <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs?username=heartless-caesar&show_icons=true&locale=en&layout=compact" alt="heartless-caesar" />
+ <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=heartless-caesar&show_icons=true&locale=en&layout=compact" alt="heartless-caesar" />
  
- <img align="start" src="https://github-readme-stats.vercel.app/api?username=heartless-caesar&show_icons=true&locale=en" alt="heartless-caesar" /> 
+ <img align="" src="https://github-readme-stats.vercel.app/api?username=heartless-caesar&show_icons=true&locale=en" alt="heartless-caesar" /> 
 </p>
 
