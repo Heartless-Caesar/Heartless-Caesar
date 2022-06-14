@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, I'm Caesar</h1>
+<h1 align="center">Caesar</h1>
 <h4 align="center">Software Engineering student, passionate about developing software.</h4>
 
 <h4 align="left">Connect with me:</h4>
