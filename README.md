@@ -13,9 +13,8 @@
 
 <br/>
 
-<p align="">
- <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=heartless-caesar&show_icons=true&locale=en&layout=compact" alt="heartless-caesar" />
- 
- <img align="" src="https://github-readme-stats.vercel.app/api?username=heartless-caesar&show_icons=true&locale=en" alt="heartless-caesar" /> 
+<p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heartless-caesar&theme=tokyonight&layout=compact" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/?username=heartless-caesar&theme=tokyonight" style=""/>
 </p>
 
