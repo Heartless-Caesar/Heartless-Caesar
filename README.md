@@ -14,7 +14,7 @@
 <br/>
 
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heartless-caesar&theme=tokyonight&layout=compact" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=heartless-caesar&theme=tokyonight" style=""/>
+ <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heartless-caesar&theme=tokyonight&layout=compact" />
+ <img align="end" src="https://github-readme-stats.vercel.app/api/?username=heartless-caesar&theme=tokyonight" style=""/>
 </p>
 
