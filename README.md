@@ -1,5 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Caesar</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heartless-caesar" alt="heartless-caesar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
